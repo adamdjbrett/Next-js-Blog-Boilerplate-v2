@@ -52,7 +52,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [adamdjbrett/Next-js-Blog-Boilerplate-v2](https://github.com/adamdjbrett/Next-js-Blog-Boilerplate-v2)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|40<br/>Tools used|12/14/23 <br/>Report generated|
+|43<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -250,9 +250,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (19)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (22)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (19)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (22)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -261,6 +261,7 @@ Full tech stack [here](/techstack.md)
 |[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v5.10.2|02/07/22|Rémi Weng |MIT|N/A|
 |[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v5.10.2|02/07/22|Rémi Weng |BSD-2-Clause|N/A|
 |[cross-env](https://www.npmjs.com/cross-env)|v7.0.3|01/20/22|Rémi Weng |MIT|N/A|
+|[cssnano](https://www.npmjs.com/cssnano)|v5.0.16|02/01/22|Rémi Weng |MIT|N/A|
 |[eslint-config-airbnb-base](https://www.npmjs.com/eslint-config-airbnb-base)|v15.0.0|02/07/22|Rémi Weng |MIT|N/A|
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.3.0|02/07/22|Rémi Weng |MIT|N/A|
 |[eslint-plugin-import](https://www.npmjs.com/eslint-plugin-import)|v2.25.4|02/07/22|Rémi Weng |MIT|N/A|
@@ -269,6 +270,8 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-react](https://www.npmjs.com/eslint-plugin-react)|v7.28.0|02/07/22|Rémi Weng |MIT|N/A|
 |[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v4.3.0|02/07/22|Rémi Weng |MIT|N/A|
 |[gray-matter](https://www.npmjs.com/gray-matter)|v4.0.3|05/12/21|Rémi Weng |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v7.0.4|01/20/22|Rémi Weng |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v12.3.3|02/07/22|Rémi Weng |MIT|N/A|
 |[npm-run-all](https://www.npmjs.com/npm-run-all)|v4.1.5|07/25/20|Rem W |MIT|N/A|
 |[react-dom](https://www.npmjs.com/react-dom)|v17.0.2|02/07/22|Rémi Weng |MIT|N/A|
 |[remark-parse](https://www.npmjs.com/remark-parse)|v10.0.1|02/01/22|Rémi Weng |MIT|N/A|
